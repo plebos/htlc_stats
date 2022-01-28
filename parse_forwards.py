@@ -1,7 +1,6 @@
 #  First run the following command on your c-lightning node:
 #  lncli listforwards > forwards.json
 
-from os import stat
 from collections import Counter
 import json
 
